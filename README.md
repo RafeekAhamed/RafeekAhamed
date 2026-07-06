@@ -28,6 +28,7 @@
 - 📈 Maintained **99%+ uptime** across enterprise Kubernetes environments using Azure Monitor and proactive incident response
 - 📜 Currently preparing for **AZ-104**, **AZ-305**, **AZ-400**, and **AWS Solutions Architect Associate**
 - 🌱 Expanding into **AI tooling and web development**, building on my Python + PostgreSQL + Azure foundation
+- 🎯 Aiming to grow into a Cloud/DevOps role with room to build alongside AI and web projects
 - 💬 Ask me about Kubernetes, Azure infrastructure, or CI/CD release pipelines
 - 📍 Based in Tirunelveli, Tamil Nadu, India — open to relocation
 
@@ -37,6 +38,16 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,python,postgres,mysql,git,github,powershell,html,css,linux&theme=dark" />
+</p>
+
+---
+
+### ☁️ Azure Technologies
+
+<p align="center">
+
+Azure Virtual Machines • Azure Kubernetes Service (AKS) • Azure DevOps • Azure Pipelines • Azure Monitor • Application Insights • Microsoft Entra ID • Azure RBAC • Virtual Networks • VNet Peering • Private Endpoints • ARM Templates • YAML Pipelines
+
 </p>
 
 ---
@@ -69,6 +80,16 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,azuredevops,githubactions,figma,vercel&theme=dark" />
 </p>
+
+---
+
+### 📜 Certifications
+
+- 🎓 Python Full Stack Developer — Inmakes Infotech Pvt. Ltd.
+- 📘 Microsoft Azure Administrator (AZ-104) — *In Progress*
+- 📘 Designing Microsoft Azure Infrastructure Solutions (AZ-305) — *In Progress*
+- 📘 Microsoft DevOps Engineer Expert (AZ-400) — *In Progress*
+- 📘 AWS Solutions Architect Associate — *In Progress*
 
 ---
 
