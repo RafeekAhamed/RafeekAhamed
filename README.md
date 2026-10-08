@@ -1,381 +1,424 @@
-<div align="center">
-
 # Hi, I'm Rafeek Ahamed M 👋
 
-### DevOps Engineer | Azure Cloud Engineer
+## DevOps Engineer | Azure Cloud Engineer
 
-<p>
-  <a href="https://github.com/RafeekAhamed">
-    <img src="https://img.shields.io/badge/GitHub-RafeekAhamed-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/rafeek-ahamed-devops/">
-    <img src="https://img.shields.io/badge/LinkedIn-Rafeek%20Ahamed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+DevOps Engineer with **1 year of software experience** focused on **Microsoft Azure, Azure DevOps, CI/CD, Kubernetes, Docker, Terraform, and Cloud Operations**.
 
-<p>
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CI%2FCD-2563EB?style=flat-square"/>
-  <img src="https://img.shields.io/badge/ARM%20Templates-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
-</p>
+I have hands-on experience supporting **enterprise application releases**, deployment validation, Azure and Kubernetes workload monitoring, production support, troubleshooting, and release documentation.
 
-</div>
+I also build practical DevOps projects around **Kubernetes, Infrastructure as Code, containerization, CI/CD, and cloud infrastructure**.
+
+🎯 **Open to DevOps, Azure Cloud, Cloud Operations, Cloud Support, and Junior Platform Engineering opportunities.**
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm **Rafeek Ahamed M**, a DevOps Engineer focused on **Microsoft Azure, Azure DevOps, CI/CD, Kubernetes (AKS), Docker, Infrastructure as Code, monitoring, and cloud operations**.
-
-I have hands-on experience supporting enterprise application releases across multiple environments, validating deployments, monitoring Azure infrastructure and AKS workloads, troubleshooting deployment issues, and standardizing operational processes.
-
-My technical focus includes:
-
-* ☁️ Microsoft Azure
-* ⚙️ Azure DevOps & CI/CD
-* 🚀 Release & Deployment Management
-* ☸️ Kubernetes & Azure Kubernetes Service (AKS)
-* 🐳 Docker
-* 🏗️ Infrastructure as Code with ARM Templates
-* 📊 Azure Monitor
-* 🔐 Microsoft Entra ID & RBAC
-* 🌐 Azure Networking
-* 🔧 Production Support & Troubleshooting
+* ☁️ Focused on **Microsoft Azure & Cloud Operations**
+* 🔄 Hands-on experience in **Release & Deployment Management**
+* ⚙️ Experience with **Azure DevOps & CI/CD workflows**
+* ☸️ Working with **Kubernetes & Azure Kubernetes Service (AKS)**
+* 🐳 Containerization using **Docker**
+* 🏗️ Infrastructure as Code using **Terraform & ARM Templates**
+* 📊 Monitoring with **Azure Monitor & Application Insights**
+* 🔐 Azure identity and access management using **Microsoft Entra ID & RBAC**
+* 🌐 Azure networking including **VNets, subnets, NSGs & VNet Peering**
+* 🛠️ Production support, deployment validation & troubleshooting
+* 📚 Preparing for **Microsoft Azure Administrator (AZ-104)**
 
 ---
 
-## 🛠️ Technical Skills
+# 🛠️ Technical Skills
 
 ### ☁️ Cloud & Infrastructure
 
-`Microsoft Azure` `AWS` `Azure Virtual Machines` `Azure Storage`
-`Virtual Networks` `VNet Peering` `Subnets` `NSG` `Private Endpoints` `Resource Groups`
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square\&logo=microsoftazure\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonaws\&logoColor=white)
 
-### ⚙️ DevOps & CI/CD
+`Microsoft Azure` `Azure VMs` `Azure Storage` `Resource Groups` `VNets` `Subnets` `VNet Peering` `NSG` `Private Endpoints`
 
-`Azure DevOps` `Azure DevOps Pipelines` `CI/CD` `YAML`
-`Git` `GitHub` `Azure Repos` `Build Management` `Release Management`
-`Deployment Validation` `Production Support`
+---
 
-### ☸️ Containers
+### 🔄 DevOps & CI/CD
 
-`Docker` `Kubernetes` `Azure Kubernetes Service (AKS)` `Helm`
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square\&logo=azuredevops\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square\&logo=githubactions\&logoColor=white)
+
+`Azure DevOps` `Azure Pipelines` `CI/CD` `YAML` `Git` `GitHub` `GitHub Actions` `Azure Repos` `Build Management` `Release Management` `Deployment Validation`
+
+---
+
+### ☸️ Containers & Orchestration
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square\&logo=kubernetes\&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square\&logo=helm\&logoColor=white)
+
+`Docker` `Kubernetes` `AKS` `Helm` `Ingress` `ConfigMaps` `Secrets` `Liveness Probes` `Readiness Probes` `HPA` `Rolling Updates`
+
+---
 
 ### 🏗️ Infrastructure as Code
 
-`ARM Templates` `Infrastructure as Code (IaC)`
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square\&logo=terraform\&logoColor=white)
+
+`Terraform` `ARM Templates` `Infrastructure as Code` `Modular Infrastructure`
+
+---
 
 ### 🔐 Security & Identity
 
 `Microsoft Entra ID` `RBAC` `IAM` `Network Security Groups` `Private Endpoints`
 
+---
+
 ### 📊 Monitoring & Operations
 
-`Azure Monitor` `Application Monitoring` `Infrastructure Monitoring`
-`Incident Troubleshooting` `Deployment Troubleshooting`
+`Azure Monitor` `Application Insights` `Infrastructure Monitoring` `Application Monitoring` `Deployment Validation` `Incident Troubleshooting` `Production Support`
+
+---
 
 ### 💻 Programming & Databases
 
-`Python` `PowerShell` `PostgreSQL` `MySQL`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square\&logo=powershell\&logoColor=white)
+
+`Python` `PowerShell` `PostgreSQL` `MySQL` `REST APIs`
 
 ---
 
-## 💼 Professional Experience
+# 💼 Professional Experience
 
-### DevOps Engineer – Release Management
+## DevOps Engineer – Release Management
 
 **Global Software Solution (TVL) Pvt. Ltd.**
-Tirunelveli, Tamil Nadu
+*Tirunelveli, Tamil Nadu*
 **Dec 2024 – Jul 2025**
 
-* Managed end-to-end **CI/CD release deployments** for the NPSS financial transaction platform across **6 enterprise client environments**.
-* Supported reliable and timely production releases across multiple environments.
-* Maintained **99%+ application availability** by monitoring Azure infrastructure, AKS workloads, and application performance using **Azure Monitor**.
-* Performed deployment validation through **Azure DevOps Pipelines**.
-* Verified build artifacts, PostgreSQL database scripts, and release quality before deployment.
-* Collaborated with development, QA, and business teams to troubleshoot deployment issues and production incidents.
-* Supported production releases and ensured successful release execution.
-* Authored **deployment runbooks, SOPs, release documentation, and Azure DevOps dashboards**.
-* Helped standardize deployment processes and improve operational visibility.
+Worked on enterprise application release and production support activities for a financial transaction platform across multiple client environments.
+
+### Key Responsibilities
+
+* Supported **end-to-end CI/CD release deployments** across multiple enterprise client environments.
+* Coordinated application release activities including **deployment validation, release verification, and post-deployment checks**.
+* Validated **Azure DevOps build IDs, deployment artifacts, and release information** before production activities.
+* Monitored **Azure infrastructure and AKS workloads** to support application reliability and operational stability.
+* Performed Kubernetes workload validation using **kubectl and PowerShell**.
+* Checked pod status, workload health, application connectivity, and deployment-related issues.
+* Investigated Kubernetes issues including **unhealthy pods and CrashLoopBackOff scenarios**.
+* Performed network and IP connectivity checks during application and deployment troubleshooting.
+* Validated **PostgreSQL database scripts** as part of controlled release activities.
+* Supported monitoring activities using **Azure Monitor and Application Insights**.
+* Maintained structured **release logs, Excel trackers, SOPs, runbooks, release notes, and operational documentation**.
+* Collaborated with **Development, QA, Business, and client teams** during deployment and issue-resolution activities.
+* Supported production stability through controlled release processes, deployment verification, and operational troubleshooting.
 
 ---
 
-## 🚀 Featured Cloud & DevOps Projects
+# 🚀 Featured Projects
 
-### 🔄 Azure DevOps CI/CD Pipeline
+## ☸️ Kubernetes Microservices Deployment
 
-**Technologies:**
-`Git` `Azure DevOps` `YAML` `Docker` `Kubernetes` `AKS`
+**Kubernetes • Docker • Helm • PostgreSQL • GitHub Actions • YAML**
 
-* Built an Azure DevOps CI/CD pipeline using YAML.
-* Integrated Git-based source control with automated build and deployment workflows.
-* Containerized the application using Docker.
-* Prepared Kubernetes deployment manifests for AKS.
-* Implemented a practical CI/CD workflow from source code through container deployment.
+A containerized microservices application deployed using Kubernetes with supporting DevOps practices.
 
----
+### Implementation
 
-### ☸️ Kubernetes Microservices
+* Containerized backend application using Docker
+* Kubernetes Deployment and Service configuration
+* PostgreSQL database deployment
+* ClusterIP services
+* Ingress configuration
+* ConfigMaps and Secrets
+* Liveness and Readiness probes
+* Horizontal Pod Autoscaler
+* Namespace and RBAC configuration
+* Rolling update deployment strategy
+* Helm-based application management
+* GitHub Actions CI workflow
 
-**Technologies:**
-`Kubernetes` `Docker` `Helm` `YAML` `GitHub Actions` `PostgreSQL`
-
-* Developed a containerized microservices deployment using Kubernetes.
-* Deployed backend and PostgreSQL workloads.
-* Configured Kubernetes Services for application and database communication.
-* Implemented Ingress configuration for application access.
-* Configured Horizontal Pod Autoscaling.
-* Used readiness and liveness probes for workload health checks.
-* Used Helm for Kubernetes deployment management.
-* Implemented Kubernetes namespaces and RBAC configuration.
-* Practiced rolling updates and rollback workflows.
+🔗 **Repository:**
+https://github.com/RafeekAhamed/kubernetes-microservices
 
 ---
 
-### 🔐 Azure Network Security & Access Management
+# 🏗️ Terraform Docker Infrastructure
 
-**Technologies:**
-`Microsoft Azure` `VNet Peering` `Microsoft Entra ID` `RBAC` `Virtual Machines`
+**Terraform • Docker • Flask • PostgreSQL • Nginx • GitHub Actions**
 
-* Designed and deployed a multi-VNet Azure environment spanning **3 virtual networks**.
-* Configured **VNet Peering** for secure cross-network communication.
-* Implemented **5+ custom RBAC role assignments** following least-privilege principles.
-* Configured Microsoft Entra ID user accounts and access controls.
-* Managed secure access to Azure VM and Storage resources.
+Infrastructure as Code project demonstrating modular infrastructure provisioning using Terraform and Docker.
 
----
+### Implementation
 
-### ☁️ Azure Infrastructure Deployment & Administration
+* Terraform-based infrastructure provisioning
+* Modular Terraform architecture
+* Docker network configuration
+* Backend application container
+* PostgreSQL database container
+* Nginx container
+* Separate development and production configurations
+* Terraform formatting and validation
+* `terraform init`
+* `terraform validate`
+* `terraform plan`
+* GitHub Actions CI workflow
+* Infrastructure configuration using reusable Terraform modules
 
-**Technologies:**
-`Azure Virtual Machines` `Virtual Networks` `VNet Peering` `Azure Administration`
-
-* Provisioned and administered **4 Azure Virtual Machines** across multiple VNets and Resource Groups.
-* Configured VNet Peering across **3 virtual networks**.
-* Performed end-to-end connectivity testing.
-* Executed infrastructure testing and systematic troubleshooting.
-* Validated network reliability and resolved configuration issues.
-
----
-
-### 🏗️ Infrastructure Automation Using ARM Templates
-
-**Technologies:**
-`ARM Templates` `Azure Virtual Machines` `Azure Storage Accounts` `Private Endpoints` `IaC`
-
-* Authored **5+ modular ARM Templates** for Azure infrastructure provisioning.
-* Automated deployment of Virtual Machines, Storage Accounts, and Private Endpoints.
-* Used reusable IaC components across **2+ environments**.
-* Standardized infrastructure deployment workflows.
-* Reduced manual provisioning steps by an estimated **50%**.
-* Improved infrastructure deployment consistency and repeatability.
+🔗 **Repository:**
+https://github.com/RafeekAhamed/terraform-docker-infrastructure
 
 ---
 
-### 🌐 Online Doctor's Clinic Application – AWS
+# 🔄 Azure DevOps CI/CD Pipeline
 
-**Technologies:**
-`Amazon S3` `Amazon CloudFront` `IAM` `Bucket Policies`
+**Azure DevOps • Git • YAML • CI/CD • Docker • Kubernetes**
 
-* Deployed a static web application using **Amazon S3 Static Website Hosting**.
-* Configured S3 bucket policies and access settings.
-* Managed application assets using Amazon S3.
-* Distributed static content globally through **Amazon CloudFront**.
-* Validated end-to-end accessibility through CloudFront and S3 endpoints.
+A CI/CD workflow demonstrating application build, validation, artifact management, and deployment processes.
+
+### Key Areas
+
+* Git-based source control
+* Azure DevOps YAML pipelines
+* Build validation
+* Artifact management
+* CI/CD workflow
+* Docker-based application deployment
+* Kubernetes deployment workflow
+* Deployment validation
+* Release verification
 
 ---
 
-## 🔁 DevOps Release Workflow
+# 🌐 Azure Network & Access Management
+
+**Azure • VNets • VNet Peering • Entra ID • RBAC • NSG**
+
+Azure infrastructure project focused on networking, identity, and access management.
+
+### Key Areas
+
+* Virtual Networks
+* Subnets
+* VNet Peering
+* Network Security Groups
+* Azure Virtual Machines
+* Microsoft Entra ID
+* Role-Based Access Control
+* Secure resource access
+
+---
+
+# 🏗️ Azure Infrastructure Deployment
+
+**Azure • ARM Templates • Infrastructure as Code**
+
+Infrastructure automation project using Azure Resource Manager templates.
+
+### Key Areas
+
+* ARM template-based deployments
+* Azure resource provisioning
+* Infrastructure automation
+* Parameterized deployment configurations
+* Repeatable infrastructure deployment
+
+---
+
+# 📈 DevOps Release Workflow
 
 ```text
-                    SOURCE CODE
-                         │
-                         ▼
-                 Git / GitHub
-                         │
-                         ▼
-                Azure DevOps
-                  YAML Pipeline
-                         │
-              ┌──────────┴──────────┐
-              │                     │
-              ▼                     ▼
-            Build              Validation
-              │                     │
-              └──────────┬──────────┘
-                         │
-                         ▼
-                     Artifacts
-                         │
-                         ▼
-                  Deployment
-                         │
-                         ▼
-                 Azure / AKS
-                         │
-                         ▼
-                  Azure Monitor
-                         │
-                         ▼
-             Monitoring & Support
+                    ┌─────────────────┐
+                    │   Git / GitHub  │
+                    └────────┬────────┘
+                             │
+                             ▼
+                  ┌─────────────────────┐
+                  │ Azure DevOps YAML   │
+                  │      Pipeline       │
+                  └─────────┬───────────┘
+                            │
+                            ▼
+                  ┌─────────────────────┐
+                  │ Build & Validation  │
+                  └─────────┬───────────┘
+                            │
+                            ▼
+                  ┌─────────────────────┐
+                  │      Artifacts      │
+                  └─────────┬───────────┘
+                            │
+                            ▼
+                  ┌─────────────────────┐
+                  │     Deployment      │
+                  └─────────┬───────────┘
+                            │
+                            ▼
+                ┌─────────────────────────┐
+                │     Azure / AKS         │
+                │ Kubernetes Workloads    │
+                └────────────┬────────────┘
+                             │
+                             ▼
+                  ┌─────────────────────┐
+                  │ Application & Pod   │
+                  │     Validation      │
+                  └─────────┬───────────┘
+                            │
+                            ▼
+                  ┌─────────────────────┐
+                  │   Azure Monitor     │
+                  └─────────┬───────────┘
+                            │
+                            ▼
+                  ┌─────────────────────┐
+                  │ Production Support  │
+                  └─────────────────────┘
 ```
 
 ---
 
-## ☁️ Azure Architecture Areas
+# 🎓 Certifications & Professional Learning
+
+### ✅ Completed
+
+**Microsoft Azure Fundamentals – AZ-900**
+
+Microsoft Azure fundamentals covering cloud concepts, Azure services, security, governance, and pricing.
+
+---
+
+### 🏆 Cloud Architect Professional Certification
+
+**Cloud Architect Academy LLP / Simplilearn**
+
+**Feb 2026 – May 2026**
+
+* Professional Certification Program – Cloud Architect
+* Completed with **Distinction**
+
+---
+
+### 📚 Currently Preparing
+
+**Microsoft Azure Administrator – AZ-104**
+
+Focused on Azure administration including:
+
+`Identity` `Governance` `Storage` `Compute` `Networking` `Monitoring`
+
+---
+
+# 📚 Additional Learning
+
+* Microsoft Student Ambassador preparation
+* Google developer/community events and learning activities
+* Python development and backend fundamentals
+* REST API development
+* Database fundamentals
+* Agile development practices
+
+---
+
+# 🎯 Career Focus
+
+I am currently looking for opportunities in:
+
+| Role                          | Focus                                         |
+| ----------------------------- | --------------------------------------------- |
+| **DevOps Engineer**           | CI/CD • Azure • Kubernetes                    |
+| **Azure DevOps Engineer**     | Azure DevOps • Pipelines • Release Management |
+| **Azure Cloud Engineer**      | Azure • Infrastructure • Operations           |
+| **Cloud Engineer**            | Cloud Infrastructure • Automation             |
+| **Cloud Operations Engineer** | Monitoring • Production Support               |
+| **Cloud Support Engineer**    | Troubleshooting • Cloud Operations            |
+| **Release Engineer**          | Release & Deployment Management               |
+| **Junior Platform Engineer**  | Kubernetes • IaC • Automation                 |
+
+**Immediate Joiner | Open to Opportunities Across India**
+
+---
+
+# 📊 DevOps Focus Areas
 
 ```text
-Microsoft Azure
-│
-├── Compute
-│   └── Virtual Machines
-│
-├── Networking
-│   ├── Virtual Networks
-│   ├── Subnets
-│   ├── VNet Peering
-│   ├── NSG
-│   └── Private Endpoints
-│
-├── Containers
-│   └── Azure Kubernetes Service (AKS)
-│
-├── Storage
-│   └── Azure Storage
-│
-├── Identity & Access
-│   ├── Microsoft Entra ID
-│   └── RBAC
-│
-├── DevOps
-│   └── Azure DevOps Pipelines
-│
-├── Monitoring
-│   └── Azure Monitor
-│
-└── Infrastructure as Code
-    └── ARM Templates
+Cloud
+ └── Microsoft Azure
+      ├── Compute
+      ├── Networking
+      ├── Identity
+      └── Monitoring
+
+DevOps
+ └── CI/CD
+      ├── Git
+      ├── Azure DevOps
+      ├── YAML
+      └── Release Management
+
+Containers
+ └── Kubernetes
+      ├── Docker
+      ├── AKS
+      ├── Helm
+      ├── Ingress
+      └── HPA
+
+Infrastructure
+ └── IaC
+      ├── Terraform
+      └── ARM Templates
+
+Operations
+ └── Production Support
+      ├── Monitoring
+      ├── Troubleshooting
+      ├── Deployment Validation
+      └── Incident Support
 ```
 
 ---
 
-## 📊 DevOps Areas of Focus
+# 🔗 Connect With Me
 
-| Area           | Technologies                               |
-| -------------- | ------------------------------------------ |
-| Cloud          | Microsoft Azure, AWS                       |
-| CI/CD          | Azure DevOps, YAML Pipelines               |
-| Containers     | Docker, Kubernetes, AKS                    |
-| IaC            | ARM Templates                              |
-| Networking     | VNet, VNet Peering, NSG, Private Endpoints |
-| Identity       | Entra ID, RBAC, IAM                        |
-| Monitoring     | Azure Monitor                              |
-| Source Control | Git, GitHub, Azure Repos                   |
-| Automation     | PowerShell                                 |
-| Programming    | Python                                     |
-| Databases      | PostgreSQL, MySQL                          |
+### 💼 LinkedIn
 
----
+https://www.linkedin.com/in/rafeek-ahamed-devops
 
-## 🎓 Certifications & Training
+### 🌐 Portfolio
 
-### Microsoft Certified: Azure Fundamentals — AZ-900
+https://rafeek.rafeekahamed046.workers.dev/
 
-**Microsoft | 2026**
+### 💻 GitHub
+
+https://github.com/RafeekAhamed
+
+### 🧩 LeetCode
+
+https://leetcode.com/u/rafeek-ahamed-m/
 
 ---
 
-### Microsoft Applied Skills
+# 🚀 Currently Building & Learning
 
-**Generate Reports with AI Research Agents**
-**Microsoft | July 2026**
+```text
+Azure Cloud
+     +
+Azure DevOps
+     +
+Kubernetes
+     +
+Docker
+     +
+Terraform
+     +
+CI/CD
+     +
+Cloud Operations
+     =
+DevOps Engineering
+```
 
----
-
-### Professional Certification Program – Cloud Architect
-
-**Simplilearn | Feb 2026 – May 2026**
-
-**Completed with Distinction**
-
-Training covered:
-
-`Microsoft Azure` `AWS` `Cloud Architecture` `Azure Networking`
-`VNet Peering` `Virtual Machines` `Storage` `NSGs` `Resource Groups`
-`Microsoft Entra ID` `IAM` `RBAC` `ARM Templates` `Azure Monitor`
-`Deployment Validation` `Troubleshooting` `Cloud Operations`
-
----
-
-## 📚 Additional Training
-
-### Basic Python
-
-**Apollo Computer Education | July 2023 – September 2023**
-
-`Python` `DOPS` `Image Processing` `MySQL` `CSV` `Networking`
-
-### Advanced Python Concept
-
-**Spice Institute | Dec 2023 – Feb 2024**
-
-`Python` `Qt5` `Django` `MongoDB`
-
----
-
-## 🎯 Current Career Focus
-
-I'm interested in opportunities involving:
-
-`DevOps Engineering`
-`Azure Cloud Engineering`
-`Cloud Operations`
-`CI/CD`
-`Azure Infrastructure`
-`Kubernetes / AKS`
-`Cloud Administration`
-
----
-
-## 📂 GitHub Projects
-
-I use GitHub to build and document practical cloud and DevOps projects involving:
-
-* Azure infrastructure
-* Azure DevOps CI/CD
-* Kubernetes & AKS
-* Docker
-* ARM Templates
-* Cloud networking
-* Identity & access management
-* Deployment automation
-* Monitoring and troubleshooting
-
----
-
-## 🔗 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/rafeek-ahamed-devops/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/RafeekAhamed" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### DevOps Engineer | Azure Cloud Engineer
-
-**Azure • Azure DevOps • CI/CD • AKS • Docker • Kubernetes • IaC**
-
-</div>
+### ⚡ Build. Automate. Deploy. Monitor. Improve.
