@@ -95,7 +95,7 @@ I also build practical DevOps projects around **Kubernetes, Infrastructure as Co
 
 **Global Software Solution (TVL) Pvt. Ltd.**
 *Tirunelveli, Tamil Nadu*
-**Dec 2024 – Jul 2025**
+**Dec 2024 – June 2025**
 
 Worked on enterprise application release and production support activities for a financial transaction platform across multiple client environments.
 
