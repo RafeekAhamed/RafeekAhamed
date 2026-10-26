@@ -1,4 +1,3 @@
-````markdown
 # Hi, I'm Rafeek Ahamed M 👋
 
 ### DevOps Engineer | Azure Cloud Engineer
