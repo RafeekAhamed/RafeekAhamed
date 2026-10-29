@@ -1,4 +1,3 @@
-````markdown
 # Hi, I'm Rafeek Ahamed M 👋
 
 ### DevOps Engineer | Azure Cloud Engineer
@@ -319,10 +318,6 @@ I welcome opportunities to connect with DevOps professionals, cloud engineers, r
 ---
 
 ### ⚡ Build. Automate. Deploy. Monitor. Improve.
-
-```
-
-### Before you commit
 
 1. Confirm the company name matches your employment records.
 2. Check the project repositories to ensure the listed implementations are present.
