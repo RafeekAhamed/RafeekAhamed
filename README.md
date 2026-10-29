@@ -318,12 +318,3 @@ I welcome opportunities to connect with DevOps professionals, cloud engineers, r
 ---
 
 ### ⚡ Build. Automate. Deploy. Monitor. Improve.
-
-1. Confirm the company name matches your employment records.
-2. Check the project repositories to ensure the listed implementations are present.
-3. Verify that all profile links open correctly.
-4. Save the file as `README.md` in the `RafeekAhamed/RafeekAhamed` repository.
-5. Commit with the message: `docs: improve GitHub profile README`
-
-**Recommended next step:** After updating the profile README, update the individual project READMEs so recruiters can reproduce your work and verify the technical claims.
-```
